@@ -1,4 +1,4 @@
-
+custom Wine for macOS Extension | snapshot-rollback + network-configuration offers the most advanced Wine for macOS extension, with snapshot-rollback and network-configuration.
 
 
 
